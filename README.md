@@ -1,11 +1,12 @@
-# markdown-challenge
-# Fraiture Fanny <h1> 
+
+# Fraiture Fanny  
 *Be yourself, but always your better self.*
 ![pictures of me](IMG_8178.jpg) 
 ##### ~~Eat, laugh, love~~
 
 What's your | Second Header
 ------------ | -------------
+My birthday | 22 octobre 1998
 Favorite color | Pink :heartbeat:
 Favorite food | Sushi :sushi:
 Pinneapple on pizza | Hell no ! :no_good:
