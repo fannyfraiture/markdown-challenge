@@ -4,7 +4,7 @@
 ![pictures of me](IMG_8178.jpg) 
 ##### ~~Eat, laugh, love~~
 
-What's your | Second Header
+What's your | ...?
 ------------ | -------------
 My birthday | 22 octobre 1998
 Favorite color | Pink :heartbeat:
