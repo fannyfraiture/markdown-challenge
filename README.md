@@ -30,7 +30,7 @@ Pinneapple on pizza | Hell no ! :no_good:
 You feel fat, but still want to eat something fatty ...Just one look and I'll take you to a fast food restaurant
 
 ### A funny story about me...
-
+---
 This is the story of the day I spent hours preparing my sister's birthday cake, and when we ate it we realized that I had confused sugar with salt. There were forty guests at the party...
 
 ##### Check ten times if it's really sugar, you can never be too careful
